@@ -55,11 +55,12 @@ plt.legend()
 plt.title("Univariate Linear Regression")
 plt.show()
 Program to implement univariate Linear Regression to fit a straight line using least squares
-*/
-```
+
 
 ## Output:
-<img width="789" height="498" alt="OTUPUT" src="https://github.com/user-attachments/assets/9852a395-bf27-4c8e-abe0-c3c9048f1ba7" />
+<img width="793" height="625" alt="Screenshot 2026-04-20 143212" src="https://github.com/user-attachments/assets/b5bf8a6a-465e-4645-b439-e709d5b9a261" />
+
+
 
 
 
